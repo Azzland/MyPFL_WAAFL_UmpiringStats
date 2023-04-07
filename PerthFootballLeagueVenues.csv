@@ -1,0 +1,75 @@
+ID,LONGITUDE,LATITUDE,VENUE,HOST_CLUB,SUBURB,STATUS
+1,115.8257632,-32.06242979,Morris Buzzacott Reserve,CBC Fremantle,Kardinya,Active
+2,115.8409502,-32.04023746,Karoonda Reserve,Brentwood Booragoon,Booragoon,Active
+3,115.7946502,-32.03535809,Melville Reserve,Melville,Melville,Active
+4,115.8060077,-32.08538912,Tempest Park,Coolbellup,Coolbellup,Active
+5,115.7716985,-32.08459288,Davilak Reserve,Cockburn Cobras,Hamilton Hill,Active
+6,115.7587643,-32.03507899,Gil Fraser Oval,North Fremantle,North Fremantle,Active
+7,115.7676477,-32.01977864,Tom Perrott Reserve,Mosman Park,Mosman Park,Active
+8,115.7553129,-31.99990978,Cottesloe Oval,Cottesloe,Cottesloe,Active
+9,115.8436156,-32.11774694,Anning Park,Cockburn Lakes,South Lake,Active
+10,115.8633754,-32.14134361,Atwell Reserve,Jandakot,Atwell,Active
+11,115.8664955,-32.01527315,James Miller Oval,Manning,Manning,Active
+12,115.8900356,-32.00884642,South Oval,Curtin University Wesley,Bentley,Active
+13,115.875948,-31.99731409,Bill Grayden Reserve,Trinity Aquinas,Como,Active
+14,115.8821643,-32.05411786,Burrendah Park,Willetton,Willetton,Active
+15,115.869231,-32.07164018,Beasley Park,Bull Creek Leeming,Leeming,Active
+16,115.923925,-32.03300386,Ferndale Park,Lynwood Ferndale,Ferndale,Active
+17,115.9051224,-32.09450205,Clifton Park Oval,Canning Vale,Canning Vale,Active
+18,115.924388,-32.1244298,Piara Reserve,Piara Waters,Piara Waters,Active
+19,115.9547107,-32.05795567,Thornlie Oval,Thornlie,Thornlie,Active
+20,115.9963124,-32.07163251,Gosnells Oval,Gosnells,Gosnells,Active
+21,116.0068897,-32.12518622,John Dunn Memorial Oval,Kelmscott,Kelmscott,Active
+22,116.0689755,-32.11140919,Cross Park,Roleystone,Roleystone,Active
+23,116.0058822,-32.15847824,Gwynne Park,Armadale,Armadale,Active
+24,116.0116379,-32.05483991,Harmony Fields,Maddington,Maddington,Active
+25,115.9698685,-32.02445531,Mills Park,Kenwick,Beckenham,Active
+26,115.8102057,-32.23243987,Medina Oval,Kwinana,Medina,Active
+27,115.8204614,-32.30656068,Baldivis Reserve,Baldivis,Baldivis,Active
+28,115.7624617,-32.38895713,Lark Hill Sporting Complex,Secret Harbour,Secret Harbour,Active
+29,115.7519065,-32.3296163,Warnbro Sporting Complex,Warnbro,Warnbro,Active
+30,115.9138305,-32.01013345,Wyong Reserve,Canning South Perth,Bentley,Active
+31,115.9435306,-32.00214345,Queens Park Reserve,SNESA,Queens Park,Active
+32,115.945332,-31.96841277,Forster Park,Belmont Districts,Cloverdale,Active
+33,115.9963151,-31.99562567,Hartfield Park,Forrestfield,Forrestfield,Active
+34,116.0441285,-32.00142326,Ray Owen Reserve,Kalamunda,Lesmurdie,Active
+35,116.0046082,-31.94675101,Scott Reserve,High Wycombe,High Wycombe,Active
+36,116.0404887,-31.90468929,Koongamia Oval,Koongamia,Koongamia,Active
+37,115.9413748,-31.89086827,Jubilee Reserve,Bassendean,Eden Hill,Active
+38,116.019822,-31.82496253,Swan Athletic Sporting Club,Swan Athletic,Herne Hill,Active
+39,115.991702,-31.7658789,Ellenbrook District Open Space,Ellenbrook,Ellenbrook,Active
+40,115.8942869,-31.83724709,Kingfisher Oval,Ballajura,Ballajura,Active
+41,115.8153746,-31.86516256,Richard Guelfi Reserve,Stirling,Balcatta,Active
+42,115.8314236,-31.89551593,Robinson Reserve,Osborne Park,Tuart Hill,Active
+43,115.7951273,-32.00128593,Dalkeith Oval,Collegians,Dalkeith,Active
+44,115.7862036,-31.95191389,UWA Sports Park,University,Mt Claremont,Active
+45,115.805888,-31.94531942,Pat Goodridge Reserve,Wembley,Jolimont,Active
+46,115.7593959,-31.93729191,City Beach Oval,West Coast,City Beach,Active
+47,115.7661346,-31.89010023,Abbett Park,Scarborough,Scarborough,Active
+48,115.8743075,-31.92027662,Inglewood Oval,Mount Lawley,Mount Lawley,Active
+49,115.8723783,-31.9220057,Hamer Park,Mount Lawley,Mount Lawley,Inactive
+50,115.9054137,-31.91144321,Upper Hillcrest Reserve,Bayswater,Bayswater,Active
+51,115.8559903,-31.91029966,Coolbinia Reserve,Coolbinia West Perth,Yokine,Active
+52,115.8408942,-31.87790214,Des Penman Reserve,Nollamara,Nollamara,Active
+53,115.7602432,-31.86210688,Charles Riley Reserve,North Beach,North Beach,Active
+54,115.7894548,-31.80566529,Kingsley Park,Kingsley,Kingsley,Active
+55,115.7579837,-31.76805127,Heathridge Oval,Ocean Ridge,Heathridge,Active
+56,115.7583683,-31.80364653,Macdonald Reserve,Whitford,Padbury,Active
+57,115.7636576,-31.7224553,Windermere Park,ECU,Joondalup,Active
+58,115.724327,-31.66951794,Ridgewood Park,Quinns District,Ridgewood,Active
+59,115.8035971,-31.7567764,Wanneroo Showgrounds,Wanneroo,Wanneroo,Active
+60,115.8343469,-31.81807322,Kingsway Reserve,Kingsway,Madeley,Active
+61,115.875092,-31.88731839,Dianella Regional Play Space,Dianella Morley,Dianella,Active
+62,115.8780924,-32.03564544,Shelley Park,Rossmoyne,Shelley,Active
+63,115.9356563,-32.14873073,William Skeet Oval,Forrestdale,Forrestdale,Active
+64,115.6370399,-31.54107988,Splendid Park,Yanchep,Yanchep,Active
+65,115.7888928,-31.84787192,Carine Regional Open Space,Hamersley Carine,Carine,Active
+66,115.7629951,-31.7343249,Arena Joondalup,None (GF Venue),Joondalup,Active
+67,115.9560109,-31.90312839,Bassendean Oval,None (GF Venue),Bassendean,Active
+68,115.7685657,-32.04584182,East Fremantle Oval,None (GF Venue),East Fremantle,Active
+69,115.7828408,-31.97814255,Claremont Oval,None (GF Venue),Claremont,Active
+70,115.8439043,-31.93541062,Leederville Oval,None (GF Venue),Leederville,Active
+71,115.7513128,-32.05623853,Fremantle Oval,None (GF Venue),Fremantle,Active
+72,115.9080161,-31.97262136,Lathlain Park,None (GF Venue),Lathlain,Active
+73,115.9155357,-31.86847639,Lightning Park,Noranda,Noranda,Active
+74,115.928471,-31.9812595,Carlisle Reserve,Carlisle,Carlisle,Active

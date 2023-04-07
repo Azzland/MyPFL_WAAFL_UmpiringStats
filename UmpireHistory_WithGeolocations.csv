@@ -1,0 +1,160 @@
+,Date,Game Number,HomeTeam,AwayTeam,Grade,Competition,Notes,GameID,Venue,Suburb,Count_Oval,Count_HomeTeam,Count_AwayTeam,Count_Club,latitude,longitude
+0,6/10/2017,1,Kelmscott,Maddington,B,Reserves,,G01,John Dunn Memorial Oval,Kelmscott ,1,1,1,2,-32.12518622,116.0068897
+1,6/17/2017,2,Melville,Kenwick,C1,Reserves,,G02,Melville Reserve,Melville ,1,1,1,2,-32.03535809,115.7946502
+2,6/17/2017,3,Melville,Kenwick,C1,League,,G03,Melville Reserve,Melville ,2,2,2,4,-32.03535809,115.7946502
+3,6/24/2017,4,Thornlie,Ballajura,C1,Reserves ,,G04,Thornlie Oval,Thornlie ,1,1,1,2,-32.05795567,115.9547107
+4,6/24/2017,5,Thornlie,Ballajura,C1,League,,G05,Thornlie Oval,Thornlie,2,2,2,4,-32.05795567,115.9547107
+5,7/01/2017,6,Kelmscott,Wanneroo,B,Reserves,Forfeit,G06,John Dunn Memorial Oval,Kelmscott,2,2,1,3,-32.12518622,116.0068897
+6,7/01/2017,7,Kelmscott,Wanneroo,B,League,,G07,John Dunn Memorial Oval,Kelmscott,3,3,2,5,-32.12518622,116.0068897
+7,7/08/2017,8,Mt Lawley,Hamersley Carine,B,Reserves,,G08,Hamer Park,Mt Lawley,1,1,1,2,-31.9220057,115.8723783
+8,7/08/2017,9,Mt Lawley,Hamersley Carine,B,League,,G09,Hamer Park,Mt Lawley,2,2,2,4,-31.9220057,115.8723783
+9,7/15/2017,10,Kelmscott,Swan Athletic,B,Reserves,,G10,John Dunn Memorial Oval,Kelmscott,4,4,1,5,-32.12518622,116.0068897
+10,7/15/2017,11,Kelmscott,Swan Athletic,B,League,,G11,John Dunn Memorial Oval,Kelmscott,5,5,2,7,-32.12518622,116.0068897
+11,7/22/2017,12,Curtin University Wesley,University,A,League,,G12,South Oval,Bentley,1,1,1,2,-32.00884642,115.8900356
+12,7/22/2017,13,Curtin University Wesley,University,A,Colts,,G13,South Oval,Bentley,2,2,2,4,-32.00884642,115.8900356
+13,7/29/2017,14,Maddington,Swan Athletic,B,Reserves,,G14,Harmony Fields,Maddington ,1,1,3,4,-32.05483991,116.0116379
+14,7/29/2017,15,Maddington,Swan Athletic,B,League,,G15,Harmony Fields,Maddington ,2,2,4,6,-32.05483991,116.0116379
+15,8/05/2017,16,University,Trinity Aquinas,A,Reserves,,G16,UWA Sports Park,Mt Claremont ,1,1,1,2,-31.95191389,115.7862036
+16,8/05/2017,17,University,Trinity Aquinas,A,League,,G17,UWA Sports Park,Mt Claremont ,2,2,2,4,-31.95191389,115.7862036
+17,8/12/2017,18,Trinity Aquinas,Kalamunda,A,Reserves,,G18,Bill Grayden Reserve,Como,1,1,1,2,-31.99731409,115.875948
+18,8/12/2017,19,Trinity Aquinas,Kalamunda,A,League,,G19,Bill Grayden Reserve,Como,2,2,2,4,-31.99731409,115.875948
+19,8/19/2017,20,Wanneroo,North Fremantle,B,League,Qualifying Final,G20,Gil Fraser Oval,North Fremantle ,1,1,1,2,-32.03507899,115.7587643
+20,8/19/2017,21,North Fremantle,Wanneroo,B,Colts,Qualifying Final,G21,Gil Fraser Oval,North Fremantle ,2,1,3,4,-32.03507899,115.7587643
+21,8/26/2017,22,Thornlie,Quinns District,C1,League,Semi Final,G22,Thornlie Oval,Thornlie ,3,3,1,4,-32.05795567,115.9547107
+22,8/26/2017,23,Quinns District,Ballajura,C1,Reserves ,Semi Final,G23,Thornlie Oval,Thornlie ,4,1,3,4,-32.05795567,115.9547107
+23,9/02/2017,24,Warnbro Swans,Bassendean,C2,League,Preliminary Final,G24,Warnbro Sporting Complex,Warnbro,1,1,1,2,-32.3296163,115.7519065
+24,9/09/2017,25,Jandakot,Osborne Park,C4,Reserves,Grand Final,G25,Forster Park,Cloverdale,1,1,1,2,-31.96841277,115.945332
+25,9/09/2017,26,Secret Harbour,Kwinana,C4 ,League,Grand Final,G26,Forster Park,Cloverdale,2,1,1,2,-31.96841277,115.945332
+26,4/07/2018,27,Whitford,Swan Athletic,B,Reserves,,G27,Macdonald Reserve,Padbury,1,1,5,6,-31.80364653,115.7583683
+27,4/07/2018,28,Whitford,Swan Athletic,B,League,,G28,Macdonald Reserve,Padbury,2,2,6,8,-31.80364653,115.7583683
+28,4/14/2018,29,Maddington,Whitford,B,Reserves,,G29,Harmony Fields,Maddington ,3,3,1,4,-32.05483991,116.0116379
+29,4/14/2018,30,Maddington,Whitford,B,League,,G30,Harmony Fields,Maddington ,4,4,2,6,-32.05483991,116.0116379
+30,4/21/2018,31,Collegians,Maddington,B,Reserves,,G31,Dalkeith Oval,Dalkeith,1,1,2,3,-32.00128593,115.7951273
+31,4/21/2018,32,Collegians,Maddington,B,League,,G32,Dalkeith Oval,Dalkeith,2,2,3,5,-32.00128593,115.7951273
+32,4/28/2018,33,North Fremantle,Collegians,B,Reserves,,G33,Gil Fraser Oval,North Fremantle ,3,2,1,3,-32.03507899,115.7587643
+33,4/28/2018,34,North Fremantle,Collegians,B,League,,G34,Gil Fraser Oval,North Fremantle ,4,3,2,5,-32.03507899,115.7587643
+34,5/05/2018,35,Thornlie,Swan Athletic,B,Reserves,,G35,Thornlie Oval,Thornlie ,5,4,7,11,-32.05795567,115.9547107
+35,5/05/2018,36,Thornlie,Swan Athletic,B,League,,G36,Thornlie Oval,Thornlie ,6,5,8,13,-32.05795567,115.9547107
+36,5/12/2018,37,North Fremantle,Mt Lawley,B,Reserves,,G37,Gil Fraser Oval,North Fremantle ,5,4,1,5,-32.03507899,115.7587643
+37,5/12/2018,38,North Fremantle,Mt Lawley,B,League,,G38,Gil Fraser Oval,North Fremantle ,6,5,2,7,-32.03507899,115.7587643
+38,5/19/2018,39,West Coast,Maddington,B,Reserves,,G39,City Beach Oval,City Beach,1,1,4,5,-31.93729191,115.7593959
+39,5/19/2018,40,West Coast,Maddington,B,League,,G40,City Beach Oval,City Beach,2,2,5,7,-31.93729191,115.7593959
+40,5/26/2018,41,North Fremantle,West Coast,B,Reserves,,G41,Gil Fraser Oval,North Fremantle ,7,6,1,7,-32.03507899,115.7587643
+41,5/26/2018,42,North Fremantle,West Coast,B,League,,G42,Gil Fraser Oval,North Fremantle ,8,7,2,9,-32.03507899,115.7587643
+42,6/09/2018,43,Thornlie,Collegians,B,Reserves,,G43,Thornlie Oval,Thornlie ,7,6,3,9,-32.05795567,115.9547107
+43,6/09/2018,44,Thornlie,Collegians,B,League,,G44,Thornlie Oval,Thornlie ,8,7,4,11,-32.05795567,115.9547107
+44,6/16/2018,45,Maddington,North Fremantle,B,Reserves,,G45,Harmony Fields,Maddington ,5,5,2,7,-32.05483991,116.0116379
+45,6/16/2018,46,Maddington,North Fremantle,B,League,,G46,Harmony Fields,Maddington ,6,6,3,9,-32.05483991,116.0116379
+46,6/23/2018,47,Mt Lawley,Thornlie,B,Reserves,,G47,Hamer Park,Mt Lawley ,3,3,1,4,-31.9220057,115.8723783
+47,6/23/2018,48,Mt Lawley,Thornlie,B,League,,G48,Hamer Park,Mt Lawley ,4,4,2,6,-31.9220057,115.8723783
+48,6/30/2018,49,West Coast,Mt Lawley,B,Reserves,,G49,City Beach Oval,City Beach,3,3,3,6,-31.93729191,115.7593959
+49,6/30/2018,50,West Coast,Mt Lawley,B,League,,G50,City Beach Oval,City Beach,4,4,4,8,-31.93729191,115.7593959
+50,7/07/2018,51,Thornlie,West Coast,B,Reserves,,G51,Thornlie Oval,Thornlie ,9,8,3,11,-32.05795567,115.9547107
+51,7/07/2018,52,Thornlie,West Coast,B,League,,G52,Thornlie Oval,Thornlie ,10,9,4,13,-32.05795567,115.9547107
+52,7/14/2018,53,North Fremantle,Kingsley,B,Reserves,,G53,Gil Fraser Oval,North Fremantle ,9,8,1,9,-32.03507899,115.7587643
+53,7/14/2018,54,North Fremantle,Kingsley,B,League,,G54,Gil Fraser Oval,North Fremantle ,10,9,2,11,-32.03507899,115.7587643
+54,7/21/2018,55,Thornlie,Maddington,B,Reserves,,G55,Thornlie Oval,Thornlie ,11,10,6,16,-32.05795567,115.9547107
+55,7/21/2018,56,Thornlie,Maddington,B,League,,G56,Thornlie Oval,Thornlie ,12,11,7,18,-32.05795567,115.9547107
+56,7/28/2018,57,Maddington,West Coast,B,Reserves,,G57,Harmony Fields,Maddington ,7,7,5,12,-32.05483991,116.0116379
+57,7/28/2018,58,Maddington,West Coast,B,League,,G58,Harmony Fields,Maddington ,8,8,6,14,-32.05483991,116.0116379
+58,8/04/2018,59,West Coast,North Fremantle,B,Reserves,,G59,City Beach Oval,City Beach,5,5,4,9,-31.93729191,115.7593959
+59,8/04/2018,60,West Coast,North Fremantle,B,League,,G60,City Beach Oval,City Beach,6,6,5,11,-31.93729191,115.7593959
+60,8/11/2018,61,Collegians,Thornlie,B,Reserves,,G61,Lightning Park,Noranda,1,3,3,6,-31.86847639,115.9155357
+61,8/11/2018,62,Collegians,Thornlie,B,League,,G62,Dalkeith Oval,Dalkeith ,3,4,4,8,-32.00128593,115.7951273
+62,8/11/2018,63,Cockburn Lakes,Cottesloe,Womens,League ,Final,G63,Dalkeith Oval,Dalkeith ,4,1,1,2,-32.00128593,115.7951273
+63,8/18/2018,64,Gosnells,Quinns District,C1 ,Reserves ,Qualifying Final,G64,Burrendah Park,Willetton ,1,1,2,3,-32.05411786,115.8821643
+64,8/18/2018,65,Willetton,Bassendean,C1,League,Qualifying Final ,G65,Burrendah Park,Willetton ,2,1,2,3,-32.05411786,115.8821643
+65,8/25/2018,66,Roleystone,Noranda,E1,League,Qualifying Final ,G66,Cross Park,Roleystone ,1,1,1,2,-32.11140919,116.0689755
+66,8/25/2018,67,Swan Athletic,Forrestdale,E1,League,Elimination Final,G67,Cross Park,Roleystone ,2,1,1,2,-32.11140919,116.0689755
+67,9/01/2018,68,Roleystone,Swan Athletic,E1,League,Preliminary Final,G68,Cross Park,Roleystone ,3,2,9,11,-32.11140919,116.0689755
+68,9/08/2018,69,Coolbinia,Kwinana,C3,League,Grand Final,G69,Kingsway Reserve,Madeley,1,1,2,3,-31.81807322,115.8343469
+69,7/18/2020,70,Thornlie,Kalamunda,C1 ,Reserves ,,G70,Thornlie Oval,Thornlie,13,12,3,15,-32.05795567,115.9547107
+70,7/18/2020,71,Thornlie,Kalamunda,C1,League,,G71,Thornlie Oval,Thornlie,14,13,4,17,-32.05795567,115.9547107
+71,7/25/2020,72,Quinns District,Thornlie,C1 ,Reserves ,,G72,Ridgewood Park,Ridgewood,1,2,5,7,-31.66951794,115.724327
+72,7/25/2020,73,Quinns District,Thornlie,C1,League,,G73,Ridgewood Park,Ridgewood,2,3,6,9,-31.66951794,115.724327
+73,8/01/2020,74,Kalamunda,Quinns District,C1 ,Reserves ,,G74,Ray Owen Reserve,Lesmurdie,1,1,3,4,-32.00142326,116.0441285
+74,8/01/2020,75,Kalamunda,Quinns District,C1,League,,G75,Ray Owen Reserve,Lesmurdie ,2,2,4,6,-32.00142326,116.0441285
+75,8/08/2020,76,Gosnells,Willetton,C1 ,Reserves ,,G76,Gosnells Oval,Gosnells ,1,2,1,3,-32.07163251,115.9963124
+76,8/08/2020,77,Gosnells,Willetton,C1,League,,G77,Gosnells Oval,Gosnells ,2,3,2,5,-32.07163251,115.9963124
+77,8/15/2020,78,Canning Vale,Carlisle,C1 ,Reserves ,,G78,Clifton Park Oval,Canning Vale ,1,1,1,2,-32.09450205,115.9051224
+78,8/15/2020,79,Canning Vale,Carlisle,C1,League,,G79,Clifton Park Oval,Canning Vale ,2,2,2,4,-32.09450205,115.9051224
+79,8/22/2020,80,Gosnells,Quinns District,C1 ,Reserves ,,G80,Gosnells Oval,Gosnells ,3,4,5,9,-32.07163251,115.9963124
+80,8/22/2020,81,Gosnells,Quinns District,C1,League,,G81,Gosnells Oval,Gosnells ,4,5,6,11,-32.07163251,115.9963124
+81,8/29/2020,82,Kalamunda,Warnbro Swans,C1 ,Reserves ,,G82,Ray Owen Reserve,Lesmurdie,3,3,1,4,-32.00142326,116.0441285
+82,8/29/2020,83,Kalamunda,Warnbro Swans,C1,League,,G83,Ray Owen Reserve,Lesmurdie ,4,4,2,6,-32.00142326,116.0441285
+83,9/05/2020,84,Jandakot,Snesa,C2,League,Qualifying Final ,G84,Atwell Reserve,Atwell ,1,2,1,3,-32.14134361,115.8633754
+84,9/05/2020,85,Secret Harbour,Jandakot,C2,Colts,Qualifying Final ,G85,Atwell Reserve,Atwell,2,2,1,3,-32.14134361,115.8633754
+85,9/12/2020,86,Ocean Ridge,Carlisle,C1,Reserves,Preliminary Final ,G86,Heathridge Oval,Heathridge,1,1,3,4,-31.76805127,115.7579837
+86,9/19/2020,87,University,North Fremantle,C5,League,Grand Final,G87,Wyong Reserve,Bentley,1,3,6,9,-32.01013345,115.9138305
+87,4/10/2021,88,Wanneroo,Swan Athletic,B,Reserves,,G88,Wanneroo Showgrounds,Wanneroo,1,2,10,12,-31.7567764,115.8035971
+88,4/10/2021,89,Wanneroo,Swan Athletic,B,League,,G89,Wanneroo Showgrounds,Wanneroo,2,3,11,14,-31.7567764,115.8035971
+89,4/17/2021,90,Bullcreek Leeming,Mt Lawley,B,Reserves,,G90,Beasley Park,Leeming,1,1,5,6,-32.07164018,115.869231
+90,4/17/2021,91,Bullcreek Leeming,Mt Lawley,B,League,,G91,Beasley Park,Leeming,2,2,6,8,-32.07164018,115.869231
+91,4/24/2021,92,Wanneroo,Ocean Ridge,B,Reserves,Cancelled due to Lockdown,G92,Wanneroo Showgrounds,Wanneroo,3,4,1,5,-31.7567764,115.8035971
+92,4/24/2021,93,Wanneroo,Ocean Ridge,B,League,Cancelled due to Lockdown,G93,Wanneroo Showgrounds,Wanneroo,4,5,2,7,-31.7567764,115.8035971
+93,5/01/2021,94,Mt Lawley,Kingsley,B,Reserves,,G94,Hamer Park,Mt Lawley ,5,5,3,8,-31.9220057,115.8723783
+94,5/01/2021,95,Mt Lawley,Kingsley,B,League,,G95,Hamer Park,Mt Lawley ,6,6,4,10,-31.9220057,115.8723783
+95,5/08/2021,96,Ballajura,Whitford,B,Reserves,,G96,Kingfisher Oval,Ballajura ,1,1,3,4,-31.83724709,115.8942869
+96,5/08/2021,97,Ballajura,Whitford,B,League,,G97,Kingfisher Oval,Ballajura ,2,2,4,6,-31.83724709,115.8942869
+97,5/15/2021,98,Kingsley,Bullcreek Leeming,B,Reserves,,G98,Kingsley Park,Kingsley,1,1,1,2,-31.80566529,115.7894548
+98,5/15/2021,99,Kingsley,Bullcreek Leeming,B,League,,G99,Kingsley Park,Kingsley ,2,2,2,4,-31.80566529,115.7894548
+99,5/22/2021,100,Swan Athletic,Mt Lawley,B,Reserves,,G100,Swan Athletic Sporting Club,Herne Hill,1,2,7,9,-31.82496253,116.019822
+100,5/22/2021,101,Swan Athletic,Mt Lawley,B,League,,G101,Swan Athletic Sporting Club,Herne Hill,2,3,8,11,-31.82496253,116.019822
+101,5/29/2021,102,Mt Lawley,West Coast,B,Reserves,,G102,Hamer Park,Mt Lawley ,7,7,7,14,-31.9220057,115.8723783
+102,5/29/2021,103,Mt Lawley,West Coast,B,League,,G103,Hamer Park,Mt Lawley ,8,8,8,16,-31.9220057,115.8723783
+103,6/12/2021,104,Kalamunda,Melville,C1,Reserves,,G104,Ray Owen Reserve,Lesmurdie ,5,5,1,6,-32.00142326,116.0441285
+104,6/12/2021,105,Kalamunda,Melville,C1,League,,G105,Ray Owen Reserve,Lesmurdie ,6,6,2,8,-32.00142326,116.0441285
+105,6/19/2021,106,West Coast,Kingsley,B,Reserves,,G106,City Beach Oval,City Beach ,7,7,5,12,-31.93729191,115.7593959
+106,6/19/2021,107,West Coast,Kingsley,B,League,,G107,City Beach Oval,City Beach ,8,8,6,14,-31.93729191,115.7593959
+107,6/26/2021,108,Kingsley,Ocean Ridge,B,Reserves,,G108,Kingsley Park,Kingsley,3,3,3,6,-31.80566529,115.7894548
+108,6/26/2021,109,Kingsley,Ocean Ridge,B,League,,G109,Kingsley Park,Kingsley ,4,4,4,8,-31.80566529,115.7894548
+109,7/17/2021,110,Thornlie,Canning Vale,C1,Reserves,,G110,Thornlie Oval,Thornlie,15,14,1,15,-32.05795567,115.9547107
+110,7/17/2021,111,Thornlie,Canning Vale,C1,League,,G111,Thornlie Oval,Thornlie,16,15,2,17,-32.05795567,115.9547107
+111,7/24/2021,112,Carlisle,Jandakot,C1,League,,G112,Carlisle Reserve,Carlisle,1,1,2,3,-31.9812595,115.928471
+112,7/31/2021,113,Whitford,West Coast,B,Reserves,,G113,Macdonald Reserve,Padbury,3,3,9,12,-31.80364653,115.7583683
+113,7/31/2021,114,Whitford,West Coast,B,League,,G114,Macdonald Reserve,Padbury,4,4,10,14,-31.80364653,115.7583683
+114,8/07/2021,115,Carlisle,Thornlie,C1,Reserves,,G115,Carlisle Reserve,Carlisle,2,2,7,9,-31.9812595,115.928471
+115,8/07/2021,116,Carlisle,Thornlie,C1,League,,G116,Carlisle Reserve,Carlisle,3,3,8,11,-31.9812595,115.928471
+116,8/14/2021,117,Bassendean,West Coast,B,Reserves,,G117,Jubilee Reserve,Eden Hill,1,1,11,12,-31.89086827,115.9413748
+117,8/14/2021,118,Bassendean,West Coast,B,League,,G118,Jubilee Reserve,Eden Hill,2,2,12,14,-31.89086827,115.9413748
+118,8/21/2021,119,Bassendean,Wanneroo,B,Reserves,Qualifying Final ,G119,City Beach Oval,City Beach,9,3,4,7,-31.93729191,115.7593959
+119,8/21/2021,120,West Coast,Bassendean,B,League,Qualifying Final ,G120,City Beach Oval,City Beach,10,9,3,12,-31.93729191,115.7593959
+120,8/28/2021,121,Curtin University Wesley,North Beach,A,Colts,Qualifying Final ,G121,UWA Sports Park,Mt Claremont ,3,3,1,4,-31.95191389,115.7862036
+121,9/04/2021,122,North Fremantle,Trinity Aquinas,C5,League,Preliminary Final ,G122,Gil Fraser Oval,North Fremantle ,11,10,3,13,-32.03507899,115.7587643
+122,9/04/2021,123,Curtin University Wesley,Fremantle CBC,C5,Reserves,Preliminary Final ,G123,Gil Fraser Oval,North Fremantle ,12,4,1,5,-32.03507899,115.7587643
+123,9/11/2021,124,Canning Vale,Kalamunda,C1,Colts,Grand Final,G124,East Fremantle Oval,East Fremantle,1,3,5,8,-32.04584182,115.7685657
+124,4/02/2022,125,Wembley,Whitford,B,Reserves,,G125,Pat Goodridge Reserve,Jolimont,1,1,5,6,-31.94531942,115.805888
+125,4/02/2022,126,Wembley,Whitford,B,League,,G126,Pat Goodridge Reserve,Jolimont,2,2,6,8,-31.94531942,115.805888
+126,4/09/2022,127,Mt Lawley,Bullcreek Leeming,B,Reserves,,G127,Inglewood Oval,Mt Lawley,1,9,3,12,-31.92027662,115.8743075
+127,4/09/2022,128,Mt Lawley,Bullcreek Leeming,B,League,,G128,Inglewood Oval,Mt Lawley,2,10,4,14,-31.92027662,115.8743075
+128,4/23/2022,129,University,Curtin University Wesley,A,Colts,,G129,UWA Sports Park,Mt Claremont ,4,4,1,5,-31.95191389,115.7862036
+129,4/30/2022,130,Fremantle CBC,Bassendean,A,Reserves,,G130,Morris Buzzacott Reserve,Kardinya,1,1,4,5,-32.06242979,115.8257632
+130,5/07/2022,131,Wembley,Bullcreek Leeming,B,Reserves,,G131,Pat Goodridge Reserve,Jolimont,3,3,5,8,-31.94531942,115.805888
+131,5/07/2022,132,Wembley,Bullcreek Leeming,B,League,,G132,Pat Goodridge Reserve,Jolimont,4,4,6,10,-31.94531942,115.805888
+132,5/14/2022,133,Collegians,Whitford,B,Reserves,,G133,Dalkeith Oval,Dalkeith,5,5,7,12,-32.00128593,115.7951273
+133,5/14/2022,134,Collegians,Whitford,B,League,,G134,Dalkeith Oval,Dalkeith,6,6,8,14,-32.00128593,115.7951273
+134,5/21/2022,135,Ocean Ridge,Wembley,B,Reserves,,G135,Heathridge Oval,Heathridge,2,2,1,3,-31.76805127,115.7579837
+135,5/21/2022,136,Ocean Ridge,Wembley,B,League,,G136,Heathridge Oval,Heathridge,3,3,2,5,-31.76805127,115.7579837
+136,5/28/2022,137,Swan Athletic,Melville,B,Reserves,,G137,Swan Athletic Sporting Club,Herne Hill,3,4,3,7,-31.82496253,116.019822
+137,5/28/2022,138,Swan Athletic,Melville,B,League,,G138,Swan Athletic Sporting Club,Herne Hill,4,5,4,9,-31.82496253,116.019822
+138,6/18/2022,139,Wanneroo,Swan Athletic,B,League,,G139,Wanneroo Showgrounds,Wanneroo,5,6,12,18,-31.7567764,115.8035971
+139,6/25/2022,140,Wembley,Wanneroo,B,Reserves,,G140,Pat Goodridge Reserve,Jolimont,5,5,5,10,-31.94531942,115.805888
+140,6/25/2022,141,Wembley,Wanneroo,B,League,,G141,Pat Goodridge Reserve,Jolimont,6,6,6,12,-31.94531942,115.805888
+141,7/02/2022,142,Mt Lawley,Swan Athletic,B,League,,G142,Inglewood Oval,Mt Lawley,3,11,13,24,-31.92027662,115.8743075
+142,7/09/2022,143,Ocean Ridge,Whitford,B,Reserves,,G143,Heathridge Oval,Heathridge,4,4,9,13,-31.76805127,115.7579837
+143,7/09/2022,144,Ocean Ridge,Whitford,B,League,,G144,Heathridge Oval,Heathridge,5,5,10,15,-31.76805127,115.7579837
+144,7/16/2022,145,Swan Athletic,Ocean Ridge,B,Reserves,,G145,Swan Athletic Sporting Club,Herne Hill,5,6,5,11,-31.82496253,116.019822
+145,7/16/2022,146,Swan Athletic,Ocean Ridge,B,League,,G146,Swan Athletic Sporting Club,Herne Hill,6,7,6,13,-31.82496253,116.019822
+146,7/23/2022,147,Trinity Aquinas,West Coast,A,Colts,,G147,Bill Grayden Reserve,Como,3,3,13,16,-31.99731409,115.875948
+147,7/23/2022,148,Trinity Aquinas,West Coast,A,League,,G148,Bill Grayden Reserve,Como,4,4,14,18,-31.99731409,115.875948
+148,7/30/2022,149,Swan Athletic,Baldivis,B,Reserves,,G149,Swan Athletic Sporting Club,Herne Hill,7,8,1,9,-31.82496253,116.019822
+149,7/30/2022,150,Swan Athletic,Baldivis,B,League,,G150,Swan Athletic Sporting Club,Herne Hill,8,9,2,11,-31.82496253,116.019822
+150,8/06/2022,151,Ocean Ridge,Collegians,B,League,,G151,Heathridge Oval,Heathridge,6,6,5,11,-31.76805127,115.7579837
+151,8/13/2022,152,Bullcreek Leeming,Wanneroo,B,Reserves,,G152,Clifton Park Oval,Canning Vale ,3,3,7,10,-32.09450205,115.9051224
+152,8/13/2022,153,Bullcreek Leeming,Wanneroo,B,League,,G153,Clifton Park Oval,Canning Vale ,4,4,8,12,-32.09450205,115.9051224
+153,8/20/2022,154,Canning Vale,Kalamunda,C1,Reserves,Qualifying Final ,G154,Kingfisher Oval,Ballajura ,3,4,6,10,-31.83724709,115.8942869
+154,8/20/2022,155,Ballajura,Carlisle,C1,League,Qualifying Final ,G155,Kingfisher Oval,Ballajura ,4,3,4,7,-31.83724709,115.8942869
+155,8/27/2022,156,Canning South Perth,Secret Harbour ,C3,Reserves ,Semi Final,G156,Anning Park,South Lake,1,1,1,2,-32.11774694,115.8436156
+156,8/27/2022,157,Cockburn Lakes,Secret Harbour,C3,League,Semi Final,G157,Anning Park,South Lake,2,2,1,3,-32.11774694,115.8436156
+157,9/03/2022,158,Warnbro Swans,University ,A Womens,League,Grand Final,G158,Gil Fraser Oval,North Fremantle ,13,2,1,3,-32.03507899,115.7587643
+158,9/10/2022,159,Curtin University Wesley,Maddington,C5,League,Grand Final,G159,Wyong Reserve,Bentley,2,5,8,13,-32.01013345,115.9138305
